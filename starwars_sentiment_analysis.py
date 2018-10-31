@@ -3,7 +3,6 @@ import urllib2
 
 #import the library needed to parse the web page
 from bs4 import BeautifulSoup
-#from sets import Set
 
 import csv
 import numpy
